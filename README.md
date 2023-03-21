@@ -1,1 +1,5 @@
 # Odds_calculation
+
+For the past couple of days, I was studying a little bit about statistics, statistical distributions and a lot about football odds data. I do not promote gambling, just interested in the mathematics behind it. Read a lot about how bookmakers set the price on each team according to their winning chances. Came across many good articles, and particularly in this article, they say "In betting, the trick is to find markets in which the bookmaker’s odds are bigger than the true odds, for that is where the value lies. (quoted from the article itself)". 
+
+I used both the Poisson distribution and Monte Carlo simulation to do a very simple task. We will be able to know how to use Poisson distribution and Monte Carlo simulation to generate the number of goals. We used two powerful concepts with very simple data. Later someday, probably very soon, we will use complex data and parameters like an expected goal (xG), shots on target and many more altogether to analyse scoring chances, and chance winning more precisely. If you want to generate your own xG model, you can take a look into my earlier post: https://themachineball.com/blog-details/8
